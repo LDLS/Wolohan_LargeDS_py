@@ -89,3 +89,5 @@ target/
 /reports/figures/snapshots/*.png
 /reports/figures/snapshots/*/*.png
 
+# Tokens
+tokens.*
