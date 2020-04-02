@@ -78,6 +78,7 @@ target/
 # exclude data from source control by default
 /data/
 /output/
+/input/
 
 # This is handled in separate /gitignore files to ensure directories are created
 
